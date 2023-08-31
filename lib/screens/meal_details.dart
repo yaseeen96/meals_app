@@ -20,12 +20,14 @@ class MealDetails extends ConsumerWidget {
         title: Text(meal.title),
         actions: [
           IconButton(
-              onPressed: () {
-                ref
-                    .read(favouriteMealsProvider.notifier)
-                    .toggleMealFavouriteStatus(meal);
-              },
-              icon: Icon(isFavourite ? Icons.star : Icons.star_border))
+            onPressed: () {
+              ref
+                  .read(favouriteMealsProvider.notifier)
+                  .toggleMealFavouriteStatus(meal);
+            },
+            icon: Icon(isFavourite ? Icons.star : Icons.star_border),
+            color: Colors.amber,
+          )
         ],
       ),
       body: SingleChildScrollView(
