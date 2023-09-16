@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-7338302350837454264-31",
+  "private_key_id": "7645100895643600359262706a108c7a9bcb225e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwFGGOel/qnTzf\nNcSk9qKnKW/1fpEcG99Oc3Ageq4ITbARxASxPQPOoOxpGy5ELQbbRxqSlM8AFHl0\nz/wJYy6g3rkQHr6L3rkzZIUmkTNlEUKEP0qYfHciYRoTFShy2gNtIGMg94EXZuXR\njLtC7HFc0t9RM3NfmcS8uhx+VFtUZnYPOFIGzhaF1ro0QdNVn6981U/aqaVpWSia\nR395rF3tQWG8pCVQlCS9CtqbFvtntYmrb436zSloklynlq3iaC8kBggaadtsZhBY\nd2SFUQ1nAmxurZB+UZO1g7Lw6p8Usij5D1tEYWH+6q3SEocHvKQIaS/HYHDEgaQk\nvSLv9PNJAgMBAAECggEAGHbEdSjAgdbV2cddKnRP9fy2Xvv2Slr/BCXaytBwtJui\nnl1HL57kFAXcwt+xZmyBGt8+rGX7eq3dkCLDiERc+qHnQXucCs/nmGHbdBfRdbXX\nsYsfoJ8OaFroZgVXCNoMhtFspGxu5aL4xEwSyoISYAy2VVBaM8qoAHa1NcIfrFKT\nDhqFXRHTCkTvUm/07C761QPMcNWZlK7sGm+rnc2vB67EQiGosqXoGluc4jvmx8E2\nAzMxrEF6PZZ3xAb8qPDGAeYpNvOFUozXQ1G6PCsCrQ0BSnpAAzGn5Sj7DmX4XDXh\nLxDJ3NPQ1T7VSA6ewM5zqq+brk4shvnong0fXkY7BwKBgQDVtXGAQaj32Kv9IHVC\nspibIZVGJUXUmCfpzn1o4/kUxEjeyIjcHfeOU4zsnx5KvC9EBZHAaiZHcXTAV2NL\nkE8gnHiR4QeQqs8WFKy/jdRTxFsApaI/O/mAOj3PNIsc4eHnbFSpRZqzZHbGiDsi\nybFU8D0R2/1gfDF9loPA6UTdUwKBgQDS7KHvAcws4shgSaxkNh0F0jqHVg0cnvcN\nsojYns0V+w0CSebFqu0kx0NU2MquAj69hKgtbJOGk3h+/VbNtR7OxjATNuc5uwxn\nlcLBs/2UetaWk5/ybeOmX3Tyo97HASuBf6Dm4916jALWt8Jd8lppMflb9Rc24UYc\naD+Ob7x9cwKBgQCyLMSkmhm2Cf/a2uTo5t40+JrsEMdXqEQeuvn0KZ3RopTeqXLx\nkkqDb0VfQoqO5LbDj6ElO1sO1Zjxg+pVZcuS9OHRPjyAcOiXEEW2rxkHff4hW/cZ\noXczYVuHFdemDO27dKZhOpbwWiJtA8fKCT7AAkvoR/HIL8NTYdoXTGUN4QKBgBHq\nteq2jWB2tyyutW0hx59Z90zNu3ll63iHZOZ5vtQSKk26d1btKQ3Ju2d2rujPGgNB\nRIPvSCzTVBX9cSUyMHbCEQ1gyY123RvjddK8dlrpgFb0HU8blI3qZ+XAk8j1yXtL\nmyBh1Mt3HzqcC2+tiY6MBzGPhTRNOIZrOJLh3PIPAoGBAJ7rReBfGsptuHf3GbYV\nng5oMp5MuZEmwdNOdXLmzu8yH1ZLx4/Sa16y2vxc2hJL6x5sjdM2tczIBUsI71jA\nqtP6bXpy886ClTvB0DouVsesfiidY4ECfR4jY4PP3c1DtmYmlX3OI9i3cJ3TeFYO\nYS8moXK4EHmkIV6c49EH58WR\n-----END PRIVATE KEY-----\n",
+  "client_email": "yaseenflutter@pc-api-7338302350837454264-31.iam.gserviceaccount.com",
+  "client_id": "111405563175009057577",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yaseenflutter%40pc-api-7338302350837454264-31.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
